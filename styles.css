@@ -1,0 +1,12 @@
+body {
+  background-color: #121112;
+  font-family: Orbitron;
+  color: #66ff99;
+}
+
+#clock {
+  text-align: center;
+  padding-top: 15%;
+  padding-bottom: 15%;
+  font-size: 6rem;
+}
